@@ -8,11 +8,15 @@ body{
 }
 
 button{
-	background:  background: rgb(0, 0, 0);
-	background: rgba(0, 0, 0, 0.25);
+	background:rgba(0, 0, 0, 0);
+	background:rgba(0, 0, 0, 0.25);
 	border: 1px solid #b00d00;
 	border-radius: 4px;
 	transition: 0.7s;
 }
+
+
+
+
 
 
